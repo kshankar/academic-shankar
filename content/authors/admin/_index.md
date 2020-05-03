@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shankar Karuppayah
+title: Dr. Shankar Karuppayah
 
 # Username (this should match the folder name)
 authors:
@@ -13,10 +13,10 @@ superuser: true
 role: Senior Lecturer and PostDoc (Cyber Security)
 # Organizations/Affiliations
 organizations:
-- name: National Advanced IPv6 Centre (NAv6), Universiti Sains Malaysia
-  url: "www.nav6.usm.my"
+- name: National Advanced IPv6 Centre, Universiti Sains Malaysia
+  url: "https://www.nav6.usm.my"
 - name: Telecooperation Group, TU Darmstadt
-  url: "www.tk.tu-darmstadt.de"
+  url: "https://www.tk.tu-darmstadt.de"
 
 
 # Short bio (displayed in user profile at end of posts)
