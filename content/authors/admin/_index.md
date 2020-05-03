@@ -46,19 +46,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: researcherid
-  icon_pack: ai
-  link: http://www.researcherid.com/rid/D-8548-2015
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/sh_nk_r
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=hB67snYAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4801-6370
 - icon: dblp
   icon_pack: ai
   link: https://dblp.org/pers/hd/k/Karuppayah:Shankar
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/researcher/2420379/shankar-karuppayah/
-
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
