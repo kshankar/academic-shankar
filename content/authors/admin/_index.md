@@ -21,21 +21,22 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Malware Analysis
+- Botnet Monitoring
+- Distributed Systems
+- Internet of Things
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - PhD in Computer Science (Cyber Security)
+    institution: Technische Universität Darmstadt
+    year: 2016
+  - course: M.Sc. in Software Systems Engineering
+    institution: King Mongkut's University of Technology North Bangkok
+    year: 2011
+  - course: B.Sc. (HONS) in Computer Science (Networking)
+    institution: Universiti Sains Malaysia
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
