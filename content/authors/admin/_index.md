@@ -79,7 +79,7 @@ Previously, he was (and still is) a Senior Lecturer at the National Advanced IPv
  
 He obtained his B.Sc (HONS) Computer Science from Universiti Sains Malaysia in 2009 and his M.Sc. Software Systems
  Engineering from King Mongkut's University of Technology North Bangkok (KMUTNB) in 2011. In 2016, Shankar Karuppayah
-obtained his PhD (Dr. rer. nat.) with his dissertation titled “Advanced Monitoring in P2P Botnets”. 
+obtained his PhD (Dr. rer. nat.) from TU Darmstadt with his dissertation titled “Advanced Monitoring in P2P Botnets”. 
 
 He is currently working actively on several cybersecurity projects and working groups, e.g., the National Research
  Center for Applied Cybersecurity (ATHENE), formerly known as Center for Research in Security and Privacy (CRISP).
