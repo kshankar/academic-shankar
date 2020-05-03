@@ -73,6 +73,21 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shankar Karuppayah is a currently a Senior Researcher / Postdoc in the Telecooperation group since July 2019. 
+Previously, he was (and still is) a Senior Lecturer at the National Advanced IPv6 Centre (NAv6), Universiti Sains
+ Malaysia. 
+ 
+He obtained his B.Sc (HONS) Computer Science from Universiti Sains Malaysia in 2009 and his M.Sc. Software Systems
+ Engineering from King Mongkut's University of Technology North Bangkok (KMUTNB) in 2011. In 2016, Shankar Karuppayah
+obtained his PhD (Dr. rer. nat.) with his dissertation titled “Advanced Monitoring in P2P Botnets”. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is currently working actively on several cybersecurity projects and working groups, e.g., the National Research
+ Center for Applied Cybersecurity (ATHENE), formerly known as Center for Research in Security and Privacy (CRISP).
+
+# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include
+# distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which
+# develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis
+# vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus
+# tempus vulputate.
