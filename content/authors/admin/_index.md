@@ -21,14 +21,14 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Malware Analysis
+- Botnet Monitoring
+- Distributed Systems
 
 education:
   courses:
   - PhD in Computer Science (Cyber Security)
-    institution: Technische Universität Darmstadt
+    institution: Technische Universitat Darmstadt
     year: 2016
   - course: M.Sc. in Software Systems Engineering
     institution: King Mongkuts University of Technology North Bangkok
