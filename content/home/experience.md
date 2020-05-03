@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   * Grant and project acquisitions
   * Scientific coordination of a project funded by the Royal Bank of Canada
   * Scientific coordination of a project within ATHENE 
-  * Teaching and Supervision of B.Sc., M.Sc., and Ph.D. students
+  * Teaching and supervision of B.Sc., M.Sc., and Ph.D. students
   """
 
 [[experience]]
@@ -47,12 +47,13 @@ date_format = "Jan 2006"
   
   * Research in Cyber Security and Internet of Things
   * Grant and project acquisitions 
-  * Teaching and Supervision of M.Sc. and Ph.D. students
-  * Industrial consultation projects and security trainings/workshops
+  * Teaching and supervision of M.Sc. and Ph.D. students
+  * Carry out industrial consultation projects 
+  * Carry out national/international security trainings and workshops
   """
 
 [[experience]]
-  title = "Doctoral Candidate"
+  title = "Researcher"
   company = "Telecooperation Group, Technische Universität Darmstadt"
   company_url = "https://www.tk.informatik.tu-darmstadt.de"
   location = "Darmstadt, Germany"
