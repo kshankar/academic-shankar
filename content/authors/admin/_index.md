@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - PhD in Computer Science (Cyber Security)
+  - course: PhD in Computer Science (Cyber Security)
     institution: Technische Universitat Darmstadt
     year: 2016
   - course: M.Sc. in Software Systems Engineering
@@ -36,7 +36,6 @@ education:
   - course: B.Sc. (HONS) in Computer Science (Networking)
     institution: Universiti Sains Malaysia
     year: 2009
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
