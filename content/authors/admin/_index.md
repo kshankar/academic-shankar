@@ -31,10 +31,10 @@ education:
   - course: PhD in Computer Science (Cyber Security)
     institution: Technische Universität Darmstadt
     year: 2016
-  - course: M.Sc. in Software Systems Engineering
-    institution: RWTH Aachen \                 King Mongkut's University of Technology North Bangkok
+  - course: MSc in Software Systems Engineering
+    institution: RWTH Aachen & King Mongkut's University of Technology North Bangkok
     year: 2011
-  - course: B.Sc. (HONS) in Computer Science (Networking)
+  - course: BSc in Computer Science (Networking)
     institution: Universiti Sains Malaysia
     year: 2009
 # Social/Academic Networking
