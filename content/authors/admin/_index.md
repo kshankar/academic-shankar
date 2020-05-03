@@ -24,14 +24,15 @@ interests:
 - Malware Analysis
 - Botnet Monitoring
 - Distributed Systems
+- Internet of Things
 
 education:
   courses:
   - course: PhD in Computer Science (Cyber Security)
-    institution: Technische Universitat Darmstadt
+    institution: Technische Universität Darmstadt
     year: 2016
   - course: M.Sc. in Software Systems Engineering
-    institution: King Mongkuts University of Technology North Bangkok
+    institution: King Mongkut's University of Technology North Bangkok
     year: 2011
   - course: B.Sc. (HONS) in Computer Science (Networking)
     institution: Universiti Sains Malaysia
