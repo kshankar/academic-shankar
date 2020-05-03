@@ -33,12 +33,13 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Researcher"
+  company = "RWTH Aachen"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Aachen"
+  date_start = "2010-06-01"
+  date_end = "2011-05-31"
+  description = """Carried out research in the domain of Wireless Mesh Networks as part of an internship and Masters
+   thesis at ComSys department"""
 
 +++
