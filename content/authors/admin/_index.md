@@ -14,7 +14,7 @@ role: Senior Researcher in Cyber Security
 # Organizations/Affiliations
 organizations:
 - name: Telecooperation Group, TU Darmstadt
-  url: "https://www.tk.tu-darmstadt.de"
+  url: "https://www.tk.informatik.tu-darmstadt.de"
 
 
 # Short bio (displayed in user profile at end of posts)
