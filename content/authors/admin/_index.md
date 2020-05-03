@@ -29,13 +29,13 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science (Cyber Security)
-    institution: Technische Universität Darmstadt
+    institution: Technische Universität Darmstadt, Germany
     year: 2016
   - course: MSc in Software Systems Engineering
-    institution: RWTH Aachen & King Mongkut's University of Technology North Bangkok
+    institution: RWTH Aachen, Germany & King Mongkut's University of Technology North Bangkok, Thailand
     year: 2011
   - course: BSc in Computer Science (Networking)
-    institution: Universiti Sains Malaysia
+    institution: Universiti Sains Malaysia, Malaysia
     year: 2009
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
