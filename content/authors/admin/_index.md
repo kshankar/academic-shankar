@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: Senior Lecturer and PostDoc (Cyber Security)
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: National Advanced IPv6 Centre (NAv6), Universiti Sains Malaysia
+  url: "www.nav6.usm.my"
+- name: Telecooperation Group, TU Darmstadt
+  url: "www.tk.tu-darmstadt.de"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
