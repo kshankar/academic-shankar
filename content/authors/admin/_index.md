@@ -10,11 +10,9 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Lecturer and PostDoc (Cyber Security)
+role: Senior Researcher / PostDoc in Cyber Security
 # Organizations/Affiliations
 organizations:
-- name: National Advanced IPv6 Centre, Universiti Sains Malaysia
-  url: "https://www.nav6.usm.my"
 - name: Telecooperation Group, TU Darmstadt
   url: "https://www.tk.tu-darmstadt.de"
 
