@@ -33,6 +33,7 @@ education:
     year: 2016
   - course: M.Sc. in Software Systems Engineering
     institution: King Mongkut's University of Technology North Bangkok
+    institution: RWTH Aachen
     year: 2011
   - course: B.Sc. (HONS) in Computer Science (Networking)
     institution: Universiti Sains Malaysia
