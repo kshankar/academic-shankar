@@ -32,7 +32,7 @@ education:
     institution: Technische Universität Darmstadt, Germany
     year: 2016
   - course: MSc in Software Systems Engineering
-    institution: RWTH Aachen, Germany & King Mongkut's University of Technology North Bangkok, Thailand
+    institution: RWTH Aachen, Germany  King Mongkut's University of Technology North Bangkok, Thailand
     year: 2011
   - course: BSc in Computer Science (Networking)
     institution: Universiti Sains Malaysia, Malaysia
