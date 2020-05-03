@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-Shankar Karuppayah is a currently a Senior Researcher / Postdoc at the Telecooperation group since July 2019. 
+Shankar Karuppayah is a currently a Senior Researcher / Postdoc in the Telecooperation group since July 2019. 
 Previously, he was (and still is) a Senior Lecturer at the National Advanced IPv6 Centre (NAv6), Universiti Sains
  Malaysia. 
  
