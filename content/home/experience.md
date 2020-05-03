@@ -19,6 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Senior Researcher / PostDoc"
+  company = "Telecooperation Group, Technische Universität Darmstadt"
+  company_url = "https://www.tk.informatik.tu-darmstadt.de"
+  location = "Darmstadt, Germany"
+  date_start = "2020-07-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Research in Malware Analysis and Botnet Monitoring
+  * Grant and project acquisitions
+  * Scientific coordination of a project funded by the Royal Bank of Canada
+  * Scientific coordination of a project within ATHENE 
+  * Teaching and Supervision of B.Sc., M.Sc., and Ph.D. students
+  """
+
+[[experience]]
   title = "Senior Lecturer"
   company = "National Advanced IPv6 Centre (NAv6), Universiti Sains Malaysia"
   company_url = "https://www.nav6.usm.my"
@@ -28,10 +45,10 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Teaching (M.Sc. courses)
-  * Supervising M.Sc. and Ph.D. students (Research and Mixed Mode)
-  * Carrying out industrial consultation projects 
-  * Conducting security trainings and workshops
+  * Research in Cyber Security and Internet of Things
+  * Grant and project acquisitions 
+  * Teaching and Supervision of M.Sc. and Ph.D. students
+  * Industrial consultation projects and security trainings/workshops
   """
 
 [[experience]]
