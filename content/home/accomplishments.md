@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "2009-07-01"
   date_end = "2011-05-31"
   description = """A full scholarship to pursue M.Sc. in a twinning programme between RWTH Aachen, Germany and Thai
-  -German Graduate School of Engineering (TGGS), KMUTNB, Thailand."""
+  -German Graduate School of Engineering (TGGS), KMUTNB, Thailand"""
 
 [[item]]
   organization = "Universiti Sains Malaysia and Malaysian Ministry of Higher Education"
