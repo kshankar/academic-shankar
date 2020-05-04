@@ -49,15 +49,15 @@ date_format = "Jan 2006"
   date_end = "2019-02-28"
   description = """An industrial attachment fellowship with Huawei (Malaysia) for a period of six months"""
 
-[[item]]
-  organization = "Universiti Sains Malaysia"
-  organization_url = "https://www.usm.my"
-  title = "BJIM-USM Fellow"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-05-01"
-  date_end = ""
-  description = "Appointed as USM-BJIM (Division of Industry & Community Network) Fellow"
+# [[item]]
+#  organization = "Universiti Sains Malaysia"
+#  organization_url = "https://www.usm.my"
+#  title = "BJIM-USM Fellow"
+#  url = ""
+#  certificate_url = ""
+#  date_start = "2019-05-01"
+#  date_end = ""
+#  description = "Appointed as USM-BJIM (Division of Industry & Community Network) Fellow"
     
 
 [[item]]
