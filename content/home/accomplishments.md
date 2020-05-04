@@ -19,6 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "German Academic Exchange Service (DAAD)"
+  organization_url = "https://www.daad.de"
+  title = "DAAD-TGGS M.Sc. Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2009-07-01"
+  date_end = "2011-05-31"
+  description = "A full scholarship to pursue M.Sc. in a twinning programme between RWTH Aachen, Germany and Thai-German
+   Graduate School of Engineering (TGGS), KMUTNB, Thailand."
+
+[[item]]
   organization = "Universiti Sains Malaysia and Malaysian Ministry of Higher Education"
   organization_url = "https://www.usm.my"
   title = "Academic Staff Training Scheme (ASTS) Fellowship"
@@ -26,7 +37,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2012-10-01"
   date_end = "2016-05-31"
-  description = "A full scholarship to pursue Ph.D. studies and return as a lecturer in USM"
+  description = "A full scholarship to pursue Ph.D."
 
 [[item]]
   organization = "edX"
