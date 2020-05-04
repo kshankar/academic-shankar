@@ -40,13 +40,23 @@ date_format = "Jan 2006"
   description = "A full scholarship to pursue Ph.D."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Malaysian Board of Technologists"
+  organization_url = "https://www.mbot.org.my"
+  title = "Professional Technologist (Cyber Security)"
+  url = "https://www.mbot.org.my/registration/professional-technologists/"
+  certificate_url = ""
+  date_start = "2020-04-04"
+  date_end = "2021-04-04"
+  description = ""
+
+[[item]]
+  organization = "Malaysian Board of Technologists"
+  organization_url = "https://www.mbot.org.my"
+  title = "Graduate Technologist (Cyber Security)"
+  url = "https://www.mbot.org.my/registration/graduate-technologists/"
+  certificate_url = ""
+  date_start = "2019-01-23"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  description = ""
+    
 +++
