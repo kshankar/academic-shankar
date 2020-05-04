@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
-subtitle = ""
+subtitle = "and Awards"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Universiti Sains Malaysia and Malaysian Ministry of Higher Education"
+  organization_url = "https://www.usm.my"
+  title = "Academic Staff Training Scheme (ASTS) Fellowship"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  certificate_url = ""
+  date_start = "2012-10-01"
+  date_end = "2016-05-31"
+  description = "A full scholarship to pursue Ph.D. studies and return as a lecturer in USM"
 
 [[item]]
   organization = "edX"
