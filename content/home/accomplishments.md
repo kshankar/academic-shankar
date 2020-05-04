@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "German Academic Exchange Service (DAAD)"
   organization_url = "https://www.daad.de"
-  title = "DAAD-TGGS M.Sc. Scholarship"
+  title = "DAAD Scholarship"
   url = ""
   certificate_url = ""
   date_start = "2009-07-01"
@@ -37,7 +37,17 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2012-10-01"
   date_end = "2016-05-31"
-  description = "A full scholarship to pursue Ph.D."
+  description = "A full scholarship to pursue Ph.D. and thereafter join USM as a faculty member"
+
+[[item]]
+  organization = "Malaysian Ministry of Higher Education"
+  organization_url = "https://www.mohe.gov.my"
+  title = "CEO@Faculty 2.0 Fellow"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-09-01"
+  date_end = "2019-02-28"
+  description = "An industrial attachment fellowship with Huawei (Malaysia) for a period of six months."
 
 [[item]]
   organization = "Malaysian Board of Technologists"
