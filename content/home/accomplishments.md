@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2012-10-01"
   date_end = "2016-05-31"
-  description = "A full scholarship to pursue Ph.D. and thereafter join USM as a faculty member"
+  description = "A full scholarship offer to pursue Ph.D. and thereafter join USM as a faculty member"
 
 [[item]]
   organization = "Malaysian Ministry of Higher Education"
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-09-01"
   date_end = "2019-02-28"
-  description = """An industrial attachment fellowship with Huawei (Malaysia) for a period of six months."""
+  description = """An industrial attachment fellowship with Huawei (Malaysia) for a period of six months"""
 
 [[item]]
   organization = "Universiti Sains Malaysia"
