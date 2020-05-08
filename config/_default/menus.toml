@@ -28,6 +28,16 @@
   url = "#accomplishments"
   weight = 50
 
+  [[main]]
+  name = "Experience"
+  url = "#experience"
+  weight = 55
+
+  [[main]]
+  name = "Trainings"
+  url = "#project"
+  weight = 55
+
 [[main]]
   name = "Contact"
   url = "#contact"
