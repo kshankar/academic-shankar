@@ -1,5 +1,5 @@
 ---
-title:  SecureAsi@: Asi@Connect Security Training Workshop
+title: SecureAsi@: Asi@Connect Security Training Workshop
 summary: An EU project to conduct a 3-day Hands-on Ethical Hacking Workshop for National Research Education Networks.
 tags:
 - Cyber Security
@@ -13,6 +13,23 @@ external_link: ""
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
+  
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
 ---
 Universiti Sains Malaysia (USM) and Malaysian Research and Education Network (MYREN organized and conducted the SecureAsi@ workshop for year 2017 in Cyberjaya, Malaysia from 23rd October till 25th October 2017.
 The proposed workshop was aimed at bringing Asi@Connect partners’ network engineers and security administrators to the level qualified for the operation & management of network for their NRENs and therefore promote international collaborations as well as Asi@Connect applications. 
