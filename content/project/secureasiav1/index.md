@@ -3,6 +3,7 @@ title: SecureAsi@
 summary: An EU project to conduct a 3-day Hands-on Ethical Hacking Workshop for National Research Education Networks.
 tags:
 - Cyber Security
+- Trainings/Workshops
 - Others
 date: "2017-10-23T00:00:00Z"
 
@@ -11,7 +12,7 @@ external_link: ""
 
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: SecureAsi@ 2017
   focal_point: Smart
   
 links:
