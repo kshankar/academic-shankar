@@ -1,6 +1,7 @@
 ---
 title: SecureAsi@
-summary: An EU project to conduct a 3-day Hands-on Ethical Hacking Workshop for National Research Education Networks.
+summary: An EU funded-project to conduct a 3-day Hands-on Ethical Hacking Workshop for members of National Research
+ Education Networks within AsiaConnect.
 tags:
 - Cyber Security
 - Trainings/Workshops
@@ -16,10 +17,6 @@ image:
   focal_point: Smart
   
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
