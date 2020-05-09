@@ -2,7 +2,8 @@
 title:  SecureAsi@: Asi@Connect Security Training Workshop
 summary: An EU project to conduct a 3-day Hands-on Ethical Hacking Workshop for National Research Education Networks.
 tags:
-- Demo
+- Cyber Security
+- Others
 date: "2017-10-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
