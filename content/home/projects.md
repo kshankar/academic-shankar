@@ -27,19 +27,19 @@ subtitle = "and Trainings"
   
    [[content.filter_button]]
      name = "Cyber Security"
-     tag = "cysec"
+     tag = "Cyber Security"
 
    [[content.filter_button]]
      name = "Internet of Things"
-     tag = "iot"
+     tag = "Internet of Things"
   
    [[content.filter_button]]
      name = "Trainings/Workshops"
-     tag = "tnw"
+     tag = "Trainings/Workshops"
 
    [[content.filter_button]]
      name = "Others"
-     tag = "other"
+     tag = "Others"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
