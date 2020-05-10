@@ -1,8 +1,8 @@
 ---
-title: AsiaConnect
-summary: An example of using the in-built project page.
+title: Detecting Sensor Nodes Deployed in P2P Botnets Using Graph-Theoretic Approaches
+summary: USM short term research grant to 
 tags:
-- Deep Learning
+- Cyber Security
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
