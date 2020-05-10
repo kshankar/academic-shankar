@@ -40,7 +40,7 @@ The objectives of the conducted workshop was:
 - To learn the latest Internet security techniques, firewalls etc.
 - To provide a basic knowledge of ethical hacking using Kali Linux.
     
-List of Instructors:
+Instructors:
 - Dr. Shankar Karuppayah
 - Assoc. Prof. Dr. Selvakumar Manickam
 - Prof. Dr. Mathias Fischer
