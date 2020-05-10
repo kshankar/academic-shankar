@@ -30,7 +30,9 @@ This project explores the usage of graph-theoretic approaches to detect sensor n
  the purpose of passive botnet monitoring) within the P2P botnets.
  
  Project Duration: **01/12/2016-30/11/2018**
+ 
  Grant No: **304/PNAV/6313332**
+ 
  Project Members:
  - Dr. Shankar Karuppayah (PI)
  - Prof. Dr. Rosni Abdullah

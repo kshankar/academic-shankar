@@ -30,7 +30,9 @@ This project explores the feasibility and accuracy of using low-cost IoT sensors
  environmental sensing platform within USM.
  
  Project Duration: **25/01/2018-24/07/2019**
+ 
  Grant No: **304/PNAV/6316071**
+ 
  Project Member:
  - Dr. Shankar Karuppayah (PI)
 
