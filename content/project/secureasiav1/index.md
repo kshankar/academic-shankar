@@ -29,7 +29,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Universiti Sains Malaysia (USM) and Malaysian Research and Education Network (MYREN organized and conducted the SecureAsi@ workshop for year 2017 in Cyberjaya, Malaysia from 23rd October till 25th October 2017.
+Universiti Sains Malaysia (USM) and Malaysian Research and Education Network (MYREN) organized and conducted the
+ SecureAsi@ workshop for year 2017 in Cyberjaya, Malaysia from 23rd October till 25th October 2017.
 The proposed workshop was aimed at bringing Asi@Connect partners’ network engineers and security administrators to the level qualified for the operation & management of network for their NRENs and therefore promote international collaborations as well as Asi@Connect applications. 
 As more and more security breaches being reported throughout the globe, it is such necessary that NRENs are more equipped to proactively identify potential security issues in their network BEFORE they are being exploited by hackers and malware. For that reason, this workshop provided a combination of theoretical and practical knowledge/experience to the participants of the workshop in terms of a more secure NREN. 
 USM and MYREN provided two of its security experts and engaged with University of Hamburg (UH), Germany to invite another expert in the field of Cyber Security to conduct the workshop over a period of three (3) days. The plan for the workshop was jointly developed by USM, MYREN, and UH.
