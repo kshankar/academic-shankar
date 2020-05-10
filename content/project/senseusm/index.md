@@ -2,7 +2,7 @@
 title: Sense@Usm
 summary: A USM Bridging research grant to investigate the feasibility of setting up a smart environmental sensing
  with low-cost IoT sensors
- tags:
+tags:
 - Internet of Things
 date: "2018-05-28T00:00:00Z"
 
