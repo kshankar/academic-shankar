@@ -5,7 +5,6 @@ summary: An EU funded-project to conduct a 5-day Hands-on Ethical Hacking Worksh
 tags:
 - Cyber Security
 - Trainings/Workshops
-- Others
 date: "2018-12-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
