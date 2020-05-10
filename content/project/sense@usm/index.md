@@ -1,5 +1,5 @@
 ---
-title: Sense@Usm : Smart Environmental Sensing With Low-Cost Iot Sensors
+title: Sense@Usm
 summary: A USM Bridging research grant to investigate the feasibility of setting up a smart environmental sensing
  with low-cost IoT sensors
  tags:
