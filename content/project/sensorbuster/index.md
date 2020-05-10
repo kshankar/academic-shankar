@@ -28,3 +28,13 @@ slides: example
 
 This project explores the usage of graph-theoretic approaches to detect sensor nodes (deployed by defenders for
  the purpose of passive botnet monitoring) within the P2P botnets.
+ 
+ Project Duration: **01/12/2016-30/11/2018**
+ 
+ Project Members:
+ - Dr. Shankar Karuppayah (PI)
+ - Prof. Dr. Rosni Abdullah
+ - Assoc. Prof. Dr. Selvakumar Manickam
+
+Publications:
+(to be added)
