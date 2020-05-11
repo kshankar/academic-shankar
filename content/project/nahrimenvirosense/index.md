@@ -3,7 +3,7 @@ title: NAHRIM Environmental Sensor System (NUESS) Untuk Pemantauan Kualiti Air
 summary: A NAHRIM funded project to design, develop and deploy a water quality environmental monitoring system.
 tags:
 - Internet of Things
-date: "2018-05-28T00:00:00Z"
+date: "2020-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
