@@ -101,7 +101,7 @@ directions = "Enter Piloty Building and take the stairs to Room 312 on A Wing"
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = "https://calendly.com/shankar-tud"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
