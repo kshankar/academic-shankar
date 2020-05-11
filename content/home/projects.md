@@ -34,8 +34,8 @@ subtitle = "and Trainings"
      tag = "Internet of Things"
   
    [[content.filter_button]]
-     name = "Trainings & Workshops"
-     tag = "Trainings & Workshops"
+     name = "Trainings"
+     tag = "Trainings"
 
    [[content.filter_button]]
      name = "Others"
