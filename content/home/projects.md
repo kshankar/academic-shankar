@@ -32,7 +32,7 @@ subtitle = "and Trainings"
    [[content.filter_button]]
      name = "Internet of Things"
      tag = "Internet of Things"
-
+  
    [[content.filter_button]]
      name = "Others"
      tag = "Others"
