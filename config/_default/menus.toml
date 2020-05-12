@@ -38,6 +38,11 @@
   url = "#projects"
   weight = 55
 
+  [[main]]
+  name = "Services"
+  url = "#services"
+  weight = 57
+
 [[main]]
   name = "Contact"
   url = "#contact"
