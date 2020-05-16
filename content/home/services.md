@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-## Journal Reviewer
+## **Journal Reviewer**
 - [IEEE Transactions on Information Forensics & Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) 
 - [ACM Computing Surveys](https://dl.acm.org/journal/csur)
 - [Computer Networks - Elsevier](https://www.journals.elsevier.com/computer-networks)
@@ -60,7 +60,7 @@ subtitle = ""
 - [Journal of Information Security and Applications - Elsevier](https://www.journals.elsevier.com/journal-of-information-security-and-applications)
 
 
-## TPC/Reviewer
+## **TPC/Reviewer**
 - Center for Communication, Media and Information technologies (CMI), Aalborg University - [2019](https://www.conf.cmi.aau.dk/12th+CMI+conference+2019/)
 - International Conference on Advances in Computing, Communication & Automation (ICACCA) - 2018
 - International Conference on Parallel, Distributed and Grid Computing (PDGC) - [2018](http://www.juit.ac.in/pdgc-2018/index1.php) 
