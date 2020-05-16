@@ -33,20 +33,27 @@
   url = "#experience"
   weight = 55
 
+
+  [[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 60
+
   [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 55
+  weight = 65
 
   [[main]]
   name = "Services"
   url = "#services"
-  weight = 57
+  weight = 65
+
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
