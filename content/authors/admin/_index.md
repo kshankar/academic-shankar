@@ -46,6 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: key
+  icon_pack: fas
+  link: files/shankar.karuppayah.asc
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sh_nk_r
