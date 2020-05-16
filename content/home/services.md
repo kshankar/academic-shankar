@@ -58,7 +58,7 @@ subtitle = ""
 - [International Journal of Network Management](https://onlinelibrary.wiley.com/journal/10991190)
 - [IEEE Communications Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35)
 - [Journal of Information Security and Applications - Elsevier](https://www.journals.elsevier.com/journal-of-information-security-and-applications)
-
+- [Peer J Computer Science](https://peerj.com/computer-science/)
 
 ## **TPC/Reviewer**
 - Center for Communication, Media and Information technologies (CMI), Aalborg University - [2019](https://www.conf.cmi.aau.dk/12th+CMI+conference+2019/)

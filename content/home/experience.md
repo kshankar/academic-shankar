@@ -30,8 +30,7 @@ date_format = "Jan 2006"
   
   * Research in Malware Analysis and Botnet Monitoring
   * Grant and project acquisitions
-  * Scientific coordination of a project funded by the Royal Bank of Canada
-  * Scientific coordination of a project within ATHENE 
+  * Scientific coordination of both national and international research projects  
   * Teaching and supervision of B.Sc., M.Sc., and Ph.D. students
   """
 
