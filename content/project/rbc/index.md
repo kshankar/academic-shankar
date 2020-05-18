@@ -29,7 +29,7 @@ slides: example
 This Royal Bank of Canada (RBC) funded project is aimed at carrying out research on advanced P2P botnet detection and
  countermeasures. 
   
-#Project Duration: **01/06/2018-31/05/2020**
+Project Duration: **01/01/2019-31/12/2021**
    
 Project Member:
 - Prof. Dr. Max Mühlhäuser (PI)
