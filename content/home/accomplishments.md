@@ -30,6 +30,17 @@ date_format = "Jan 2006"
   -German Graduate School of Engineering (TGGS), KMUTNB, Thailand"""
 
 [[item]]
+  organization = "GÉANT"
+  organization_url = "https://www.geant.org/"
+  title = "TRANSITS I"
+  url = "https://www.geant.org/Services/Trust_identity_and_security/Pages/TRANSITS-I.aspx"
+  certificate_url = ""
+  date_start = "2018-03-28"
+  date_end = "2018-03-29"
+  description = """TRANSITS-I course is aimed at new or potential computer security incident response team (CSIRT
+  ) personnel who wish to gain a good grounding in the main aspects of working in such a team."""
+
+[[item]]
   organization = "Universiti Sains Malaysia and Malaysian Ministry of Higher Education"
   organization_url = "https://www.usm.my"
   title = "Academic Staff Training Scheme (ASTS) Fellowship"
