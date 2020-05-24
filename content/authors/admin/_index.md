@@ -77,8 +77,8 @@ user_groups:
 - Visitors
 ---
 
-Shankar Karuppayah is a currently a [Senior Researcher / Postdoc in the Telecooperation group, TU Darmstadt](https://www
-.informatik.tu-darmstadt.de/telekooperation/telecooperation_group/staff_1/staff_1_details_84480.en.jsp) since July 2019. 
+Shankar Karuppayah is a currently a [Senior Researcher/Postdoc in the Telecooperation group, TU Darmstadt
+](https://www.informatik.tu-darmstadt.de/telekooperation/telecooperation_group/staff_1/staff_1_details_84480.en.jsp) since July 2019. 
 Previously, he was (and still is) a [Senior Lecturer at the National Advanced IPv6 Centre (NAv6), Universiti Sains
  Malaysia](https://www.nav6.usm.my/about-us/people/shankar-karuppayah/). 
  
