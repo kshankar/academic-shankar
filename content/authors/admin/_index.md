@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Shankar Karuppayah
+title: Dr. rer. nat. Shankar Karuppayah
 
 # Username (this should match the folder name)
 authors:
