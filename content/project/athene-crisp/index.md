@@ -27,7 +27,7 @@ url_video: ""
 slides: example
 ---
 
-A projet within Mission ABC (Analytics Based Cybersecurity) of Athene that focuses on collaborative botnet analysis and
+A project within Mission ABC (Analytics Based Cybersecurity) of Athene that focuses on collaborative botnet analysis and
  detection with a strong emphasis on data analytics.
   
 Project Duration: **01/01/2020-31/12/2023**
