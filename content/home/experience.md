@@ -19,12 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Area Head - Smart Protection in Infrastructures and Networks (SPIN)"
+  company = "Telecooperation Group, Technische Universität Darmstadt"
+  company_url = "https://www.tk.informatik.tu-darmstadt.de"
+  location = "Darmstadt, Germany"
+  date_start = "2021-01-01"
+  date_end = "2021-06-30"
+  description = """
+  Responsibilities include:
+  
+  * Managing (2) postdocs and (4) Ph.D. students within the area
+  * Contribute towards improving efficiency of the area as a whole 
+  """
+
+
+[[experience]]
   title = "Senior Researcher / PostDoc"
   company = "Telecooperation Group, Technische Universität Darmstadt"
   company_url = "https://www.tk.informatik.tu-darmstadt.de"
   location = "Darmstadt, Germany"
-  date_start = "2020-07-01"
-  date_end = ""
+  date_start = "2019-07-01"
+  date_end = "2021-06-30"
   description = """
   Responsibilities include:
   
