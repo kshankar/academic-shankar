@@ -27,17 +27,21 @@ url_video: ""
 slides: example
 ---
 
-The following sub-objectives are defined to achieve the goal of this research:
+The main objectives defined to achieve the goal of this research are:
 1. To investigate and propose a method to (re)establish a P2P botnet overlay using real-world malware samples
 2. To collect realistic P2P botnet datasets for further investigations and analysis
  
- Project Duration: **01/09/2021-31/08/2021**
+Project Duration: **01/09/2021-31/08/2023**
  
- #Grant No: **304/PNAV/6313332**
+Grant No: **304/PNAV/6313332**
  
  Project Members:
  - Dr. Shankar Karuppayah (PI)
  - Assoc. Prof. Dr. Selvakumar Manickam
+ Collaborators (TU Darmstadt):
+ - Prof. Dr. Max Mühlhäuser
+ - M.Sc. Leon Böck
+
 
 Publications:
 (to be added)
