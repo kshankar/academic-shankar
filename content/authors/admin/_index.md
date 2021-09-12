@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ts. Dr. rer. nat. Shankar Karuppayah
+title: Ts. Dr. Shankar Karuppayah
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Researcher in Cyber Security
+role: Senior Lecturer
 # Organizations/Affiliations
 organizations:
-- name: Telecooperation Group, TU Darmstadt
-  url: "https://www.tk.informatik.tu-darmstadt.de"
+- name: National Advanced IPv6 Centre (NAv6), Universiti Sains Malaysia (USM)
+  url: "https://www.nav6.usm.my"
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -77,14 +77,12 @@ user_groups:
 - Visitors
 ---
 
-Shankar Karuppayah is a currently a [Senior Researcher/Postdoc in the Telecooperation group, TU Darmstadt
-](https://www.informatik.tu-darmstadt.de/telekooperation/telecooperation_group/staff_1/staff_1_details_84480.en.jsp) since July 2019. 
-He is also a [Senior Lecturer at the National Advanced IPv6 Centre (NAv6), Universiti Sains
+Shankar Karuppayah is a currently a [Senior Lecturer at the National Advanced IPv6 Centre (NAv6), Universiti Sains
  Malaysia](https://www.nav6.usm.my/about-us/people/shankar-karuppayah/) since 2016. 
  
 He obtained his B.Sc (HONS) Computer Science from Universiti Sains Malaysia in 2009 and his M.Sc. Software Systems
  Engineering from King Mongkut's University of Technology North Bangkok (KMUTNB) in 2011. In 2016, Shankar Karuppayah
 obtained his PhD (Dr. rer. nat.) from TU Darmstadt with his dissertation titled “Advanced Monitoring in P2P Botnets”. 
 
-He is currently working actively on several cybersecurity projects and working groups, e.g., the National Research
- Center for Applied Cybersecurity (ATHENE), formerly known as Center for Research in Security and Privacy (CRISP).
+#He is currently working actively on several cybersecurity-related projects and closely collaborating with the Telecooperation Lab Darmstadt, Germany.
+#Update (Sept 11, 2021): If you are interested in pursuing your Masters or PhD in the domain of Cybersecurity, do reach out as he is looking for some talents (Funding Available!).
