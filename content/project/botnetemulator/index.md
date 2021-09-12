@@ -33,7 +33,7 @@ The main objectives defined to achieve the goal of this research are:
  
 Project Duration: **01/09/2021-31/08/2023**
  
-Grant No: **304/PNAV/6313332**
+Grant No: **USM Short Term Grant 304/PNAV/6313332**
  
 ### Project Members:
  - Dr. Shankar Karuppayah (PI)
@@ -41,3 +41,13 @@ Grant No: **304/PNAV/6313332**
 ### Collaborators (TU Darmstadt):
  - Prof. Dr. Max Mühlhäuser
  - M.Sc. Leon Böck
+
+### Open Positions:
+- MSc by Research (Full Time) - Stipend Available (Available from September 2021 - August 2023)
+  - Requirements:
+    - Bachelor's degree in Computer Science/Electric & Electronic Engineering, Computer Engineering/Information Technology or equivalent. 
+    - A minimum CGPA of 2.75/4.0 or equivalent.
+    - Good understanding of the fundamentals of (computer) networking
+    - \[Optional\] Experience in Reverse Engineering and/or OpenStack deployments are advantageous 
+  - If interested, please contact me as soon as possible.
+
