@@ -82,7 +82,4 @@ Shankar Karuppayah is a currently a [Senior Lecturer at the National Advanced IP
  
 He obtained his B.Sc (HONS) Computer Science from Universiti Sains Malaysia in 2009 and his M.Sc. Software Systems
  Engineering from King Mongkut's University of Technology North Bangkok (KMUTNB) in 2011. In 2016, Shankar Karuppayah
-obtained his PhD (Dr. rer. nat.) from TU Darmstadt with his dissertation titled “Advanced Monitoring in P2P Botnets”. 
-
-#He is currently working actively on several cybersecurity-related projects and closely collaborating with the Telecooperation Lab Darmstadt, Germany.
-#Update (Sept 11, 2021): If you are interested in pursuing your Masters or PhD in the domain of Cybersecurity, do reach out as he is looking for some talents (Funding Available!).
+obtained his PhD (Dr. rer. nat.) from TU Darmstadt with his dissertation titled “Advanced Monitoring in P2P Botnets”.
