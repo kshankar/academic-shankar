@@ -35,13 +35,9 @@ Project Duration: **01/09/2021-31/08/2023**
  
 Grant No: **304/PNAV/6313332**
  
- Project Members:
+### Project Members:
  - Dr. Shankar Karuppayah (PI)
  - Assoc. Prof. Dr. Selvakumar Manickam
- Collaborators (TU Darmstadt):
+### Collaborators (TU Darmstadt):
  - Prof. Dr. Max Mühlhäuser
  - M.Sc. Leon Böck
-
-
-Publications:
-(to be added)
