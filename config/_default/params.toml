@@ -82,26 +82,25 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "kshankar@usm.my"
-phone = "+49 6151 16-23191"
+phone = "+604 653 4632"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Hochschulstr. 10", city = "Darmstadt", region = "Hessen", postcode = "64289", country = "Germany", country_code = "DE"}
+address = {street = "National Advanced IPv6 Centre (NAv6), Level 6, School of Computer Sciences Building, Universiti Sains Malaysia", city = "USM", region = "Penang", postcode = "11800", country = "Malaysia", country_code = "MY"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "49.877325", longitude = "8.654675"}
-
+coordinates = {latitude = "5.354623", longitude = "100.301446"}
 
 # Directions for visitors to locate you.
-directions = "Enter Piloty Building and take the stairs to Room 312 on A Wing"
+directions = "Take the lift to the 6th floor and turn right at the entrance to head over to NAv6."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/shankar-tud"
+appointment_url = "https://calendly.com/kshankar_usm"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
