@@ -1,5 +1,5 @@
 ---
-title: MSc/PhD Positions Funded by Ministry of Higher Education's Fundamental Research Grant Scheme (FRGS) 
+title: MSc/PhD Postgraduate Positions Funded by Ministry of Higher Education's Fundamental Research Grant Scheme (FRGS) 
 date: 2021-09-23
 math: false
 diagram: false

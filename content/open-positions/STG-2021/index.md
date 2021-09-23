@@ -1,5 +1,5 @@
 ---
-title: MSc Position Funded by Universiti Sains Malaysia's Short Term Grant (STG) 
+title: M.Sc Postgraduate Position Funded by Universiti Sains Malaysia's Short Term Grant (STG) 
 date: 2021-09-07
 math: false
 diagram: false
