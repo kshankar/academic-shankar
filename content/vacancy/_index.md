@@ -1,5 +1,5 @@
 ---
-title: Open Positions
+title: Vacancy
 
 # View.
 #   1 = List
