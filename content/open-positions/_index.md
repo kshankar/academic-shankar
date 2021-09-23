@@ -10,7 +10,7 @@ view: 3
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: "Photo by <a href="https://unsplash.com/@ninjason?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jason Leung</a> on <a href="https://unsplash.com/s/photos/vacancy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>"
-  image: "jason-leung-F2WX4BTIkpQ-unsplash.jpg"
+  image: "jason-leung-F2WX4BTIkpQ-unsplash"
 ---
 
 There are always open positions for interested postgraduate candidates throughout the year. 
