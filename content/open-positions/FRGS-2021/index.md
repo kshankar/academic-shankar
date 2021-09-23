@@ -6,11 +6,6 @@ diagram: false
 image:
   placement: 3
 ---
-
-There are always open positions for interested postgraduate candidates throughout the year. 
-However, only some positions are offered with funding support, e.g., monthly stipend. 
-These positions are often tied up to ongoing research/consultation grants.
-
 # Project Title: **A periodicity-agnostic method for detecting parasitic botnets in Distributed Hash Table-based Peer-to-Peer networks**
 
 # Candidate Criteria: 
