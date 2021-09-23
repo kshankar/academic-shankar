@@ -13,9 +13,9 @@ There are always open positions for interested postgraduate candidates throughou
 You can regularly check this page for such open positions and apply within the application period.  
 
 
-## Open Positions (with Funding)
+## Open Funded Positions
 1. Funded by the Ministry of Higher Education's Fundamental Research Grant Scheme (FRGS)
-  ![](static/img/logo_kpt_black.svg)
+  ![](static/img/avatar.jpg)
    - Project Title: **A periodicity-agnostic method for detecting parasitic botnets in Distributed Hash Table-based
 Peer-to-Peer networks**
    - Requirements:
@@ -27,7 +27,7 @@ Peer-to-Peer networks**
      - Funding begins from **September 2021 - August 2024** 
    - For further inquiries, please send an email to me with "**[FRGS-2021]**" appended to the subject 
      
-3. Funded by the Universiti Sains Malaysia's Short Term Grant (STG)
+2. Funded by the Universiti Sains Malaysia's Short Term Grant (STG)
    - Project Title: **An advanced network manipulation method to (re)establish Peer-to-Peer botnet overlays within isolated Internet emulation testbeds**
    - Requirements:
      - Enrolment into a **full-time MSc (Research)** programme
