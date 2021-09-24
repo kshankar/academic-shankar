@@ -24,7 +24,8 @@ If you satisfy the criteria above, you could be the candidate we are looking for
 - Mandatory enrolment into a **full-time [MSc](http://www.admissions.usm.my/index.php/postgraduate/postgraduate-programme/sciences/applied-sciences/research-applied-sciences/132-master-of-science-advanced-computer-networks-and-doctor-of-philosophy-ipv6) (Research Mode)** programme @ [National Advanced IPv6 Centre](www.nav6.usm.my), USM 
 - Fulfillment of the [USM general admission requirements](http://www.admissions.usm.my/index.php/postgraduate/postgraduate-programme#general-admission-requirements)
 - An academic degree in the field of Computer Science/Computer Engineering/Information Technology or equivalent
-  
+- Foreign students are also welcomed to apply for this position
+
 # Funding Details:
 - Monthly stipend of **up to RM 1,100** for **24 months** 
 - Funding begins from **September 2021 - August 2023**
