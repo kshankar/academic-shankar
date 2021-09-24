@@ -25,7 +25,7 @@ If you satisfy the criteria above, you could be the candidate we are looking for
 - Foreign students are also welcomed to apply for this position
   
 # Funding Details:
-- Monthly stipend of **up to RM 2,500** for **36 months** (*depending* on MSc/PhD candidate)
+- Monthly stipend of ***up to RM 2,500** for **24-36 months** (**depending* on whether it is a MSc or PhD candidate)
 - Funding begins from **September 2021 - August 2024**
 
 # How to Apply:
