@@ -16,7 +16,7 @@ image:
 - Knowledge/experience/interest in (at least one):
   - Cybersecurity
   - Malware/Botnets
-  - Cloud Systems
+  - Cloud Computing/OpenStack
 
 If you satisfy the criteria above, you could be the candidate we are looking for right now! Go ahead and send in your application.
 
