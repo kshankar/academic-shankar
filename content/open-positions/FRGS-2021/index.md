@@ -6,9 +6,17 @@ diagram: false
 image:
   placement: 3
 ---
-# Project: **A periodicity-agnostic method for detecting parasitic botnets in Distributed Hash Table-based Peer-to-Peer networks**
+# Project Title:  **A periodicity-agnostic method for detecting parasitic botnets in Distributed Hash Table-based Peer-to-Peer networks**
 
-# Candidate Criteria: 
+# Project Description:
+Parasitic botnets coexist with benign nodes and services in a Distributed Hash Table (DHT)-based Peer-to-Peer (P2P) network.
+Recent years have observed the emergence of new parasitic botnets on the BitTorrent and IPFS networks. Their presence is a threat
+to benign nodes and services relying upon the underlying DHT. State-of-the-art in detecting parasitic botnets are rather limited in their application
+scenarios and can be easily circumvented. Parasitic botnets are harmful to the DHT network in many ways. They can manipulate
+consensus algorithms or sabotage the networks' underlying routing mechanisms for profit and fun. Hence, the main objective of this research is
+to propose a more effective method to detect parasitic botnets within DHT-based P2P networks.
+
+# Applicant's Criteria: 
 - Curiosity-driven researchers/tinkerers 
 - Independent/self-motivated personality 
 - Knowledge/experience in (at least one):
@@ -25,10 +33,15 @@ If you satisfy the criteria above, you could be the candidate we are looking for
 - Foreign students are also welcomed to apply for this position
   
 # Funding Details:
-- Monthly stipend of ***up to RM 2,500** for **24-36 months** (**depending* on whether it is a MSc or PhD candidate)
+- Monthly stipend of ***up to RM 2,500** for **24-36 months** (**depending* on whether the applicant is a MSc or PhD candidate)
 - Funding begins from **September 2021 - August 2024**
 
+# What do we offer:
+- A close research supervision to guide you throughout your postgraduate journey
+- International collaboration (and travel opportunities) with our collaborators in Germany (TU Darmstadt)
+- A fun working environment with International collegues (other postgraduate students) that often closely work together (within our research group)  
+
 # How to Apply:
-- Drop me an email with "**[FRGS-2021]**" appended to the subject
+- Drop me an email ASAP with "**[FRGS-2021]**" appended to the subject 
 - Attach your **CV** and a **research statement**
 

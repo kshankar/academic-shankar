@@ -35,7 +35,7 @@ education:
   - course: MSc in Software Systems Engineering
     institution: RWTH Aachen, Germany & King Mongkut's University of Technology North Bangkok, Thailand
     year: 2011
-  - course: BSc in Computer Science (Networking)
+  - course: BSc (HONS) in Computer Science (Networking)
     institution: Universiti Sains Malaysia, Malaysia
     year: 2009
 # Social/Academic Networking
