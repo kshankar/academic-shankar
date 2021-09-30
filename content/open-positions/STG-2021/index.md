@@ -31,10 +31,11 @@ If you satisfy the criteria above, you could be the candidate we are looking for
 - Monthly stipend of **RM 1,100** for **24 months** 
 - Funding begins from **September 2021 - August 2023**
 
-# What do we offer:
+# What can we offer you:
+- A great university experience in an island (Penang) north of Malaysia 
 - A close research supervision to guide you throughout your postgraduate journey
-- International collaboration (and travel opportunities) with our collaborators in Germany (TU Darmstadt)
-- A fun working environment with International collegues (other postgraduate students) that often closely work together (within our research group)
+- A fun working environment with local and international colleagues (other postgraduate students) that often closely work together (within our research group)  
+- Close international collaboration (and travel) opportunities with our collaborators in Germany
 
 # How to Apply:
 - Drop me an email ASAP with "**[STG-2021]**" appended to the subject

@@ -33,13 +33,16 @@ If you satisfy the criteria above, you could be the candidate we are looking for
 - Foreign students are also welcomed to apply for this position
   
 # Funding Details:
-- Monthly stipend of ***up to RM 2,500** for **24-36 months** (**depending* on whether the applicant is a MSc or PhD candidate)
-- Funding begins from **September 2021 - August 2024**
+- Monthly stipend of **up to RM 2,500*** for **24-36 months** 
+- Funding begins from **September 2021 - August 2024***
 
-# What do we offer:
+(**depending* on whether the applicant is a MSc or PhD candidate)
+
+# What can we offer you:
+- A great university experience in an island (Penang) north of Malaysia 
 - A close research supervision to guide you throughout your postgraduate journey
-- International collaboration (and travel opportunities) with our collaborators in Germany (TU Darmstadt)
-- A fun working environment with International collegues (other postgraduate students) that often closely work together (within our research group)  
+- A fun working environment with local and international colleagues (other postgraduate students) that often closely work together (within our research group)  
+- Close international collaboration (and travel) opportunities with our collaborators in Germany
 
 # How to Apply:
 - Drop me an email ASAP with "**[FRGS-2021]**" appended to the subject 
