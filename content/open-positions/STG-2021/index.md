@@ -38,6 +38,6 @@ If you satisfy the criteria above, you could be the candidate we are looking for
 - Close international collaboration (and travel) opportunities with our collaborators in Germany
 
 # How to Apply:
-- Drop me an email ASAP with "**[STG-2021]**" appended to the subject
+- Drop me an email (kshankar[@]usm[.]my) ASAP with "**[STG-2021]**" appended to the subject
 - Attach your **CV** and a **research statement**
 
